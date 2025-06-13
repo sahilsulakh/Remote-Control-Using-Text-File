@@ -160,4 +160,4 @@ public class UpdateService : BackgroundService
 🔙 Legacy system? See .NET Framework folder.
 ❓ Questions? Join our community!
 
-Made with ❤️ by Agniveer Tutorials
+Crafted with ❤️ by Agniveer Corporation

@@ -257,4 +257,4 @@ Task InstallUpdate()      // Install pending update
 - [Control Status](../Control%20Status/README.md)
 - [Update Handler](../Update%20Handler/README.md)
 
-Made with ❤️ by Agniveer Tutorials
+Crafted with ❤️ by Agniveer Corporation
