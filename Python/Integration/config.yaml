@@ -1,0 +1,16 @@
+# Default configuration file for Remote Control & Update Handler
+
+control:
+  url: https://keymaster-agni.vercel.app/control.txt
+  check_interval: 2.0  # seconds
+
+update:
+  url: https://keymaster-agni.vercel.app/update.txt
+  check_interval: 3600  # seconds (1 hour)
+  temp_dir: updates  # Temporary directory for downloads
+
+logging:
+  level: INFO
+  file: remote_control.log
+  max_size: 1048576  # 1MB
+  backup_count: 3    # Keep 3 old log files
